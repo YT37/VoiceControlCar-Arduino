@@ -8,7 +8,7 @@ This project is a car that can be controlled by your voice in Arduino.
 - Motor1 - SheildMotor1
 - Motor2 - SheildMotor2
 - Servo - SheildServo1
-- HC05 - VCC-5V, GND-GND, TX-RX, RX-TX
+- HC05 - TX-RX, RX-TX
 
 # Required Libraries
  - [AFMotor](https://www.arduinolibraries.info/libraries/adafruit-motor-shield-library)
