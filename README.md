@@ -1,6 +1,9 @@
 # VoiceControlCar-Arduino
 This project is a car that can be controlled by your voice in Arduino.
 
+# Credits
+- Modified code from [this](https://www.youtube.com/watch?v=QYa02BYWD14) video.
+
 # Pinouts
 - Motor1 - SheildMotor1
 - Motor2 - SheildMotor2
